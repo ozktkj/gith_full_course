@@ -1,1 +1,1 @@
-console.log("Git Hub");
+console.log("誰かが変更しましたよ");
